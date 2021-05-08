@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/SimpleReg.h
+string
+-
+SimpleTeam.h
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/SimpleTeam.h
+
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/SimpleTeam.h
+string
+-
+
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+SimpleReg.h
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/SimpleReg.h
+SimpleTeam.h
+/Users/hammadmacho7/Desktop/CS201/HW3_HammadKhanMusakhel_21801175/HW5_partA/SimpleTeam.h
+
